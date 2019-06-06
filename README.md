@@ -1,6 +1,6 @@
 # Vue Playground
 
-This is a minimal Vue setup with Parcel. It's intended to get you up and running with single file components in a matter of seconds without configuration. Keep in mind: it's a playground!
+This is a minimal Vue setup with Parcel. It's intended to get you up and running with single file components in a matter of seconds without configuration. **Keep in mind: it's a playground!**
 
 ## Installation
 
@@ -16,4 +16,4 @@ Check out https://parceljs.org for further help
 npm run dev
 ```
 
-Start editing App.vue, have fun!
+Start editing `App.vue`, have fun!
