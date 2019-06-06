@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "posthtml": {
+    "recognizeSelfClosing": true
+  }
+}
